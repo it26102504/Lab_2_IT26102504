@@ -1,6 +1,0 @@
-#include<stdio.h>
-  int main(void)
-{
-	printf("Hello! Welcome to SLIITd\n");
-	return 0;
-}
